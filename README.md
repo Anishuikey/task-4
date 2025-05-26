@@ -57,3 +57,13 @@ A minimal Chrome extension to help you manage productivity by:
 ## License
 
 MIT License
+
+# OUTPUT
+
+![image](https://github.com/user-attachments/assets/96ddfafb-7e47-4b0c-910f-1d0a9578dec5)
+
+![image](https://github.com/user-attachments/assets/bfcba686-0995-45a7-a0f1-65aa14ef2cca)
+
+![image](https://github.com/user-attachments/assets/0b939835-b1fa-45b3-9f28-26a8d4935ebc)
+
+
